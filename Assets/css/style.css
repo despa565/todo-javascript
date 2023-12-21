@@ -41,7 +41,7 @@ button
 {
     margin-top: 3rem;
 }
-.todo{
+.todo-list li{
     list-style: none;
     display: flex;
     justify-content: space-between;
